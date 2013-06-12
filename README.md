@@ -1,4 +1,4 @@
 nachtmusic
 ==========
 
-Nachtmusic: Scraping Music Events from PWM Venues
+Nachtmusic: Scraping Music Events from PWM Venues.
